@@ -2,6 +2,9 @@ Faster R-CNN Implementation in Pytorch
 
 This repository implements Faster R-CNN both with the VGG16 and Resnet-50 Backbones in Pytorch.
 
+by default the model is using resnet50 backbone.
+
+To use VGG16 please rename the faster_rcnn_vgg16.py to faster_rcnn.py and faster_rcnn.py to faster_rcnn_resnet50.py 
 Here i have used the Facemask dataset from Kaggle to perform the implementation.
 
 This faster RCNN implementation can be used for any custom dataset, and make sure to follow the steps from the Tutorial to avoid any errors.
