@@ -1,11 +1,8 @@
 Faster R-CNN Implementation in Pytorch
 
 This repository implements Faster R-CNN with Resnet-50 Backbone in Pytorch.
-
 This faster RCNN implementation can be used for any custom dataset, and make sure to follow the steps from the Tutorial to avoid any errors.
-
 The model uses Resnet-50 by default.
-
 To use VGG16 please rename the faster_rcnn_vgg16.py to faster_rcnn.py and faster_rcnn.py to faster_rcnn_resnet50.py Next make sure to change the backbone_out_channels to 512 for VGG16 in the voc.yaml
 
 ## Sample Output by training Faster R-CNN on FaceMask dataset 
