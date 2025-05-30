@@ -18,11 +18,9 @@ Ground Truth(Left) | Prediction(right)
 <img src="https://github.com/user-attachments/assets/df8673b1-ec17-4110-919e-0ca9c0934b9d" width="300">
 
 ## Data preparation
-For setting up the VOC 2007 dataset:
-* Download VOC 2007 train/val data from http://host.robots.ox.ac.uk/pascal/VOC/voc2007 and name it as `VOC2007` folder
-* Download VOC 2007 test data from http://host.robots.ox.ac.uk/pascal/VOC/voc2007 and name it as `VOC2007-test` folder
-* Place both the directories inside the root folder of repo according to below structure
-    ```
+
+Please ensure that when downloading the dataset in Pascal VOC format, you place the training and testing images in their respective JPEGImages folders, and similarly, store the corresponding annotations in the Annotations folders for training and testing separately.
+The Tree structure of the directory should look like the following.
     FasterRCNN-Pytorch
         -> VOC2007
             -> JPEGImages
@@ -43,9 +41,9 @@ For setting up the VOC 2007 dataset:
             -> voc.py
     ```
 
-## For training on your own dataset
-
 
 
 ## References
+
+- Implementation inspired by the [FasterRCNN-PyTorch repository by explainingai-code](https://github.com/explainingai-code/FasterRCNN-PyTorch).
 
