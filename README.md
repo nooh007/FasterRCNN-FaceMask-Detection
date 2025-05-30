@@ -8,7 +8,7 @@ This faster RCNN implementation can be used for any custom dataset, and to make 
 
 
 ## Sample Output by training Faster R-CNN on FaceMask dataset 
-Ground Truth                               Prediction
+Ground Truth                               | Prediction
 </br>
 <img src="https://github.com/user-attachments/assets/da09d1fa-f013-4150-9457-d6396d19ebe0" width="300">
 <img src="https://github.com/user-attachments/assets/7c2c7de7-8fc3-4d1d-aa9c-268d5410961f" width="300">
