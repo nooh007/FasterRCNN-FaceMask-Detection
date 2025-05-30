@@ -22,6 +22,7 @@ Ground Truth(Left) | Prediction(right)
 Please ensure that when downloading the dataset in Pascal VOC format, you place the training and testing images in their respective JPEGImages folders, and similarly, store the corresponding annotations in the Annotations folders for training and testing separately.
 The Tree structure of the directory should look like the following.
     FasterRCNN-Pytorch
+    ```
         -> VOC2007
             -> JPEGImages
             -> Annotations
