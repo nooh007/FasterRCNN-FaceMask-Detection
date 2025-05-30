@@ -12,9 +12,9 @@ This faster RCNN implementation can be used for any custom dataset, and to make 
 Ground Truth(Left) | Prediction(right)
 </br>
 <img src="https://github.com/user-attachments/assets/da09d1fa-f013-4150-9457-d6396d19ebe0" width="300">
-<img src="https://github.com/user-attachments/assets/e45ff977-c102-4824-86dc-6a6247456121" width="300">
-</br>
 <img src="https://github.com/user-attachments/assets/7c2c7de7-8fc3-4d1d-aa9c-268d5410961f" width="300">
+</br>
+<img src="https://github.com/user-attachments/assets/e45ff977-c102-4824-86dc-6a6247456121" width="300">
 <img src="https://github.com/user-attachments/assets/df8673b1-ec17-4110-919e-0ca9c0934b9d" width="300">
 
 ## Data preparation
