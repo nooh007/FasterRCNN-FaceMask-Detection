@@ -1,6 +1,6 @@
 Faster R-CNN Implementation in Pytorch
 
-This repository implements Faster R-CNN with Resnet-50 Backbones in Pytorch.
+This repository implements Faster R-CNN with Resnet-50 Backbone in Pytorch.
 
 This faster RCNN implementation can be used for any custom dataset, and make sure to follow the steps from the Tutorial to avoid any errors.
 
