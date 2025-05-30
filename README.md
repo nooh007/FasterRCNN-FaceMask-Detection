@@ -4,11 +4,11 @@ This repository implements Faster R-CNN with training, inference and map evaluat
 
 Here i have used the Facemask dataset from Kaggle to perform the implementation.
 
-This faster RCNN implementation can be used for any custom dataset, and to make sure to follow the steps from the pdf to avoid any errors.
+This faster RCNN implementation can be used for any custom dataset, and make sure to follow the steps from the Tutorial to avoid any errors.
 
 
 ## Sample Output by training Faster R-CNN on FaceMask dataset 
-Ground Truth                               | Prediction
+Ground Truth | Prediction
 </br>
 <img src="https://github.com/user-attachments/assets/da09d1fa-f013-4150-9457-d6396d19ebe0" width="300">
 <img src="https://github.com/user-attachments/assets/7c2c7de7-8fc3-4d1d-aa9c-268d5410961f" width="300">
