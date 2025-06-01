@@ -20,6 +20,9 @@ Ground Truth | Prediction
 <img src="https://github.com/user-attachments/assets/e45ff977-c102-4824-86dc-6a6247456121" width="300">
 <img src="https://github.com/user-attachments/assets/df8673b1-ec17-4110-919e-0ca9c0934b9d" width="300">
 
+## Results
+Achieved an mAP of 0.7531 (75%) with resnet50 backbone after 30 epochs on the facemask dataset 
+
 ## Data preparation
 
 Please ensure that when downloading the dataset in Pascal VOC format, you place the training and testing images in their respective JPEGImages folders, and similarly, store the corresponding annotations in the Annotations folders for training and testing separately.
