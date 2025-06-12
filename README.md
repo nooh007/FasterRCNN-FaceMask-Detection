@@ -9,6 +9,13 @@ The model uses Resnet-50 by default.
 To use VGG16 please rename the faster_rcnn_vgg16.py to faster_rcnn.py and faster_rcnn.py to faster_rcnn_resnet50.py Next make sure to change the backbone_out_channels to 512 for VGG16 in the voc.yaml
 
 
+## 📘 Tutorial
+
+Please follow the tutorial below for complete reimplementation:
+
+[📄 Download Tutorial (Faster R-CNN Face Mask Detection)](https://github.com/nooh007/FasterRCNN-FaceMask-Detection/blob/main/Tutorial%20Nooh%20(faster_rcnn).pdf)
+
+
 
 
 ## Sample Output by training Faster R-CNN on FaceMask dataset 
